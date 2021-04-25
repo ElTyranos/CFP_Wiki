@@ -7,7 +7,7 @@ layout: default
 Community Flavor Pack edits several vanilla files.
 Last loaded mod will overwrite the files of the other one.
 
-Editing these files in your mod without [compatibility patch](https://github.com/ElTyranos/CommunityFlavorPack/wiki/Known-(in)compatibilities) will lead to...
+Editing these files in your mod without [compatibility patch](/troubleshooting/in-compatibilities) will lead to...
 
 # In common\genes folder
 ..AI won't be able to wear what `portrait_modifiers` asks it to wear and appear naked.

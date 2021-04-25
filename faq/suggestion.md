@@ -22,9 +22,7 @@ Once you have a name and time period (between 10th and 13th century is ideal), t
 * Reproductions (when they did a proper historical research work) and archeological artifacts then allow us to aim for maximum realism, to grab images of a consistent reproduction of the asset, to grab patterns, very fine detail that will turn an artistical vision into an historically consitant and reallistic asset. Here, the higher the resolution the better.
 
 ### Good documentation samples:
-[Irish Beards and Hair ](https://github.com/ElTyranos/CommunityFlavorPack/issues/54) by Atral
-
-[Taylasan](https://github.com/ElTyranos/CommunityFlavorPack/issues/67) by hentuspants
-
-[Iranian quilted hats](https://discord.com/channels/754378126162788393/754383743422300221/794963339989483540) by Huriale
+* [Irish Beards and Hair ](https://github.com/ElTyranos/CommunityFlavorPack/issues/54) by Atral
+* [Taylasan](https://github.com/ElTyranos/CommunityFlavorPack/issues/67) by hentuspants
+* [Iranian quilted hats](https://discord.com/channels/754378126162788393/754383743422300221/794963339989483540) by Huriale
 Those are focused on a very specific asset or set, deliver context, historical references, solid sources and comprehensive visuals.

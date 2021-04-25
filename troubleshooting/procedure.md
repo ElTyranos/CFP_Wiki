@@ -17,4 +17,4 @@ Several common issues should trigger your "mod incompatibility" warning light
 * The more obvious the issue is, the more likely it's an incompatibility
 
 ### But, why ?
-Unfortunately, the way the game is coded does not allow to append code (e.g. to change a very specific class or value), you have to overwrite actual game files entirely. [If two mods change the same files](https://github.com/ElTyranos/CommunityFlavorPack/wiki/Edited-vanilla-files), they will create incompatibilities. There is nothing that can be done excepted one thing : [cooperation and compatibility patches between mods](https://github.com/ElTyranos/CommunityFlavorPack/wiki/Known-(in)compatibilities).
+Unfortunately, the way the game is coded does not allow to append code (e.g. to change a very specific class or value), you have to overwrite actual game files entirely. [If two mods change the same files](/pages/vanilla-changes), they will create incompatibilities. There is nothing that can be done excepted one thing : [cooperation and compatibility patches between mods](/troubleshooting/in-compatibilities).

@@ -14,4 +14,4 @@ Steam workshop file management can be stubborn and junky. You may want to force 
 
 **Option 2:** go to "_steamapps\workshop\content\1158310\2220098919_" and shift+delete all content in there. Then unsubscribe and resubscribe.
 
-**Option 3:** if the game still does not start, try checking [CK3 Launcher issue](https://github.com/ElTyranos/CommunityFlavorPack/wiki/CK3-Launcher-issue).
+**Option 3:** if the game still does not start, try checking [CK3 Launcher issue](/troubleshooting/ck-launcher).
