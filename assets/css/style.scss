@@ -1,0 +1,55 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+    background: #8d928e url(../images/wiki-cfp.jpg) 0 0 no-repeat;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+header a.button {
+    background: transparent url(../images/cfp-button.png) 0 0 no-repeat;
+    padding-left: 85px;
+    line-height: 1.6;
+    right: 200px;
+}
+
+header h1 {
+   font-weight: 700;
+}
+
+header h2 {
+   color: #464748;
+   font-weight: 700;
+}
+
+a.button {
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+}
+
+#main-content h1 {
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+}
+
+#main-content h2 {
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+}
+
+#main-content h3 {
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+}
+
+#main-content h4 {
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+}
+
+#main-content h5 {
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+}
+
+#main-content h6 {
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+}
