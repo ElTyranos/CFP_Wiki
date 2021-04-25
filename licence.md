@@ -15,6 +15,5 @@ _Disclaimer: I always respect others intellectual property and I expect people t
 
 * Non commercial : you can't monetize any part of the mod.
 
-
 # Educative usage:
 Feel free to open the mod files to educate yourself of course. Don't hesitate to contact me if you need assistance for your own project. I am always willing to help and record video tutorials.

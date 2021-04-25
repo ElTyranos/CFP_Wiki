@@ -17,7 +17,6 @@ Welcome to Commununity Flavor Pack Wiki
 ## Useful links
 * [Paradox Forums topic](https://forum.paradoxplaza.com/forum/threads/mod-community-flavour-pack.1418887/)
 
-
 ## Frequently Asked Question
 * [How do I make a suggestion ?](https://github.com/ElTyranos/CommunityFlavorPack/wiki/Suggestions)
 * [Why are achievements not working ?](https://github.com/ElTyranos/CommunityFlavorPack/wiki/Why-are-achievements-not-working-%3F)
@@ -40,11 +39,3 @@ Welcome to Commununity Flavor Pack Wiki
 ### Files management
 * [Steam Workshop : force reinstall](https://github.com/ElTyranos/CommunityFlavorPack/wiki/Steam-workshop-:-force-reinstall)
 * [CK3 Launcher re-init](https://github.com/ElTyranos/CommunityFlavorPack/wiki/CK3-Launcher-issue)
-
-## Modders guides
-* [In-built systems](https://github.com/ElTyranos/CommunityFlavorPack/wiki/in-built--systems)
-* [Edited vanilla files](https://github.com/ElTyranos/CommunityFlavorPack/wiki/Edited-vanilla-files)
-
-## Useful info
-* [Licence](https://github.com/ElTyranos/CommunityFlavorPack/wiki/Licence)
-* [Credits](https://github.com/ElTyranos/CommunityFlavorPack/wiki/Credits)
