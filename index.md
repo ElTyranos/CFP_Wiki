@@ -6,9 +6,6 @@ layout: default
 
 Welcome to Commununity Flavor Pack Wiki
 
-## Download the mod
-[![](/assets/images/download_steam.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2220098919) [![](/assets/images/download_pdx.png)](https://mods.paradoxplaza.com/mods/12560/Any)
-
 ## Frequently Asked Question
 * [How do I make a suggestion ?](/faq/suggestion)
 * [Why are achievements not working ?](/faq/achievements)
