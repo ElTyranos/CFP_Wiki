@@ -6,7 +6,7 @@ layout: default
 
 Welcome to Commununity Flavor Pack Wiki
 
-## Community
+## Useful links
 * [Discord](https://discord.gg/jjchTqr)
 * [Suggestion box](https://suggestion.communityflavorpack.com/)
 
@@ -24,12 +24,6 @@ Welcome to Commununity Flavor Pack Wiki
 * I see **naked** and/or **bald** people : [Force re-install](https://github.com/ElTyranos/CommunityFlavorPack/wiki/Steam-workshop-:-force-reinstall) or [Mods incompatibility](https://github.com/ElTyranos/CommunityFlavorPack/wiki/Mods-incompatibilities)
 * Mod does not start : [CK3 Launcher re-init](https://github.com/ElTyranos/CommunityFlavorPack/wiki/CK3-Launcher-issue)
 * [What do icon colors in the barbershop mean?](https://github.com/ElTyranos/CommunityFlavorPack/wiki/Expanded-Barbershop)
-
-## Included Systems
-* [Expanded Barbershop](https://github.com/ElTyranos/CommunityFlavorPack/wiki/Expanded-Barbershop)
-* _Hair Loss_
-* _Innovation Unlocks_
-* [New Game Rules](https://github.com/ElTyranos/CommunityFlavorPack/wiki/Game-Rules)
 
 ## Troubleshooting
 ### Compatibility
