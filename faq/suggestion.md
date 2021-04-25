@@ -23,6 +23,8 @@ Once you have a name and time period (between 10th and 13th century is ideal), t
 
 ### Good documentation samples:
 [Irish Beards and Hair ](https://github.com/ElTyranos/CommunityFlavorPack/issues/54) by Atral
+
 [Taylasan](https://github.com/ElTyranos/CommunityFlavorPack/issues/67) by hentuspants
+
 [Iranian quilted hats](https://discord.com/channels/754378126162788393/754383743422300221/794963339989483540) by Huriale
 Those are focused on a very specific asset or set, deliver context, historical references, solid sources and comprehensive visuals.

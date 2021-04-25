@@ -6,16 +6,8 @@ layout: default
 
 Welcome to Commununity Flavor Pack Wiki
 
-## Useful links
-* [Discord](https://discord.gg/jjchTqr)
-* [Suggestion box](https://suggestion.communityflavorpack.com/)
-
 ## Download the mod
-* [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2220098919)
-* [PDX Mods](https://mods.paradoxplaza.com/mods/12560/Any)
-
-## Useful links
-* [Paradox Forums topic](https://forum.paradoxplaza.com/forum/threads/mod-community-flavour-pack.1418887/)
+[![](/images/download_steam.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2220098919) [![](/images/download_pdx.png)](https://mods.paradoxplaza.com/mods/12560/Any)
 
 ## Frequently Asked Question
 * [How do I make a suggestion ?](/faq/suggestion)
