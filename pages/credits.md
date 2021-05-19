@@ -5,7 +5,7 @@ layout: default
 # Credits
 
 ## Active team
-El Tyranos (3D), Atral (2D), Darnokthemage (historical advisor)
+El Tyranos (3D), Atral (2D), Darnokthemage (historical advisor), Huriale (historical advisor)
 
 ## Translators
 Jadyv, Tada-Kunただ, Pastaboi, zoosant el suevo, Jeg0r, [N菌汉化](https://steamcommunity.com/id/Mochi_Fish/myworkshopfiles/?appid=1158310), [크번빌](https://steamcommunity.com/profiles/76561198119968654/myworkshopfiles/?appid=1158310), [티에](https://steamcommunity.com/profiles/76561198085006398/)
@@ -17,4 +17,4 @@ JƟЯDΛИ, Boyed244, Markus R., Guillem R. ninjacorn, 𝕹𝕲𝕰 𝖎𝖘 �
 Safran (3D)
 
 ## External contractors
-[Juan Pinto](https://www.artstation.com/juan_pinto) (2D), [Arthur Pin](https://www.artstation.com/loutre) (3D), [Brice Roussillon](http://briceroussillon.fr/) (3D), [Marko Tatalovic](https://www.artstation.com/fuxna) (3D).
+[Juan Pinto](https://www.artstation.com/juan_pinto) (2D), [Arthur Pin](https://www.artstation.com/loutre) (3D), [Brice Roussillon](http://briceroussillon.fr/) (3D), [Marko Tatalovic](https://www.artstation.com/fuxna) (3D); [Mikalai Naletska](https://www.artstation.com/huko3d).
