@@ -17,4 +17,4 @@ JƟЯDΛИ, Boyed244, Markus R., Guillem R. ninjacorn, 𝕹𝕲𝕰 𝖎𝖘 �
 Safran (3D)
 
 ## External contractors
-[Juan Pinto](https://www.artstation.com/juan_pinto) (2D), [Arthur Pin](https://www.artstation.com/loutre) (3D), [Brice Roussillon](http://briceroussillon.fr/) (3D), [Marko Tatalovic](https://www.artstation.com/fuxna) (3D); [Mikalai Naletska](https://www.artstation.com/huko3d).
+[Arthur Pin](https://www.artstation.com/loutre), [Brice Roussillon](http://briceroussillon.fr/), [Juan Pinto](https://www.artstation.com/juan_pinto), [Marko Tatalovic](https://www.artstation.com/fuxna), [Mikalai Naletska](https://www.artstation.com/huko3d).
