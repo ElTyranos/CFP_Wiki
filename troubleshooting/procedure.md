@@ -7,11 +7,11 @@ layout: default
 1. Before reporting, the issue must be reproduced with CFP being the only mod in your playset.
 2. The issue happens again ? You can now [Report it](https://github.com/ElTyranos/CommunityFlavorPack/issues). Thank you.
 
-_Read bellow why I'm asking you to do this._
+## Frequent issues
 
 ## A possible incompatibility ?
 Several common issues should trigger your "mod incompatibility" warning light
-* I see plenty naked characters.
+* I see a lot of people **naked** and/or **bald** and/or **without headgear** : [Force re-install](/troubleshooting/force-reinstall). If issues persist, you have a mod incompatibility.
 * There are missing CFP assets in the barbershop when you have several mods running.
 * Some vanilla or CFP systems are broken.
 * The more obvious the issue is, the more likely it's an incompatibility
