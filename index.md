@@ -12,7 +12,7 @@ Welcome to Commununity Flavor Pack Wiki
 * [What do icon colors in the barbershop mean?](/pages/expanded-barbershop)
 
 ## Troubleshooting
-* [How to report an issue ?](/troubleshooting/procedure)
+* [Issue : general procedure before reporting](/troubleshooting/procedure)
 * [Other mods known (in)compatibilities](/troubleshooting/in-compatibilities)
 * [Steam Workshop : force reinstall](/troubleshooting/force-reinstall)
 * [CK3 Launcher re-init](/troubleshooting/ck-launcher)
