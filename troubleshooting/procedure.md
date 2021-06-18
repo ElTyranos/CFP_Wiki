@@ -9,7 +9,7 @@ layout: default
 
 ## Frequent issues
 
-## A possible incompatibility ?
+## 1. Playset incompatiblities
 Several common issues should trigger your "mod incompatibility" warning light
 * I see a lot of people **naked** and/or **bald** and/or **without headgear** : [Force re-install](/troubleshooting/force-reinstall). If issues persist, you have a mod incompatibility.
 * There are missing CFP assets in the barbershop when you have several mods running.
