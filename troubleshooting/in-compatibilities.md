@@ -19,6 +19,7 @@ _You need a compatibility patch_
 * [Princes of Darkness](https://steamcommunity.com/sharedfiles/filedetails/?id=2411410817)
 * [Amerindian Steppe Tribe](https://steamcommunity.com/sharedfiles/filedetails/?id=2419561912)
 * [Sunset Invasion](https://steamcommunity.com/sharedfiles/filedetails/?id=2435334531)
+* [Ethnicities & Portraits Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2507209632)
 
 ## CFP dependency
 _These mods require CFP to work_
