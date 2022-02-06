@@ -69,3 +69,4 @@ Editing these files in your mod without [compatibility patch](/troubleshooting/i
 * create_artifact_joyeuse_effect
 * western in gfx/court_scene/scene_cultures
 * spymaster in gfx/portraits/portrait_animations
+* wall_shield in common\artifacts\visuals
