@@ -8,7 +8,7 @@ layout: default
 * 3D Artists: El Tyranos, Shaggy90
 * 2D Artists: Atral
 * Writing: [Marcella Strangelove](https://www.youtube.com/watch?v=dQw4w9WgXcQ), Marcus Aldenkercha, b_abbi
-* Translation: zoosant el suevo, [N菌汉化](https://steamcommunity.com/id/Mochi_Fish/myworkshopfiles/?appid=1158310), [크번빌](https://steamcommunity.com/profiles/76561198119968654/myworkshopfiles/?appid=1158310), [티에](https://steamcommunity.com/profiles/76561198085006398/), DonRosmarin.
+* Translation: zoosant el suevo, [N菌汉化](https://steamcommunity.com/id/Mochi_Fish/myworkshopfiles/?appid=1158310), [크번빌](https://steamcommunity.com/profiles/76561198119968654/myworkshopfiles/?appid=1158310), [티에](https://steamcommunity.com/profiles/76561198085006398/), DonRosmarin, [Kodeks](https://steamcommunity.com/sharedfiles/filedetails/?id=2218891628).
 * Historical advisors: Darnokthemage, Huriale
 
 ## Donors (Patreon, ko-fi)
