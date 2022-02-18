@@ -5,10 +5,19 @@ layout: default
 # Expanded Barbershop
 
 ## New categories
-_Soon (tm)_
+* Legwear
+* Accessories
+* Earrings
+* Necklace
+* Hands
 
-## Default behaviour
-_Soon (tm)_
+## Unlocked setup (default)
+* You can set yourself naked via the barbershop.
+* Blind, one-eyed and disfigured characters can edit (or remove their accessory).
+* Cloaks are made available to kids but they won't wear them automatically.
+
+## Locked setup
+* Soon (tm)
 
 ## Color code
 * Pale blue = anything western
