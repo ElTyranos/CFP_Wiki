@@ -19,4 +19,4 @@ JƟЯDΛИ, Boyed244, Markus R., Guillem R. ninjacorn, 𝕹𝕲𝕰 𝖎𝖘 �
 * Translation: Jadyv, Tada-Kunただ, Pastaboi, [N菌汉化](https://steamcommunity.com/id/Mochi_Fish/myworkshopfiles/?appid=1158310), [크번빌](https://steamcommunity.com/profiles/76561198119968654/myworkshopfiles/?appid=1158310).
 
 ## External contractors
-[Arthur Pin](https://www.artstation.com/loutre), [Brice Roussillon](http://briceroussillon.fr/), [Juan Pinto](https://www.artstation.com/juan_pinto), [Marko Tatalovic](https://www.artstation.com/fuxna), [Mikalai Naletska](https://www.artstation.com/huko3d).
+[Arthur Pin](https://www.artstation.com/loutre), [Brice Roussillon](http://briceroussillon.fr/), [Juan Pinto](https://www.artstation.com/juan_pinto), [Marko Tatalovic](https://www.artstation.com/fuxna), [Mikalai Naletska](https://www.artstation.com/huko3d),  [Hundsgugel](https://www.artstation.com/hundsgugel).
