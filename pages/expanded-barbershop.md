@@ -20,10 +20,11 @@ layout: default
 * Soon (tm)
 
 ## Color code
-* Pale blue = anything western
-* Red = anything eastern
-* Purple = byzantine
-* Yellow = african
+* Pale blue = anything Western
+* Red = anything Eastern
+* Ocher = Iberian
+* Purple = Byzantine
+* Yellow = African
 * Orange = Indian
 * Green = Middle East & North Africa (MENA)
-* White = anything religious
+* White = anything Religious
