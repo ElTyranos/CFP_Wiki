@@ -11,7 +11,7 @@ layout: default
 * Go to `Documents\Paradox Interactive\Crusader Kings III\mod`
 * Create a folder named "CFP"
 * Paste in this folder the files inside the zip you retrived in PDXMods archives
-!()[https://i.imgur.com/RXlzZCy.png]
+![](https://i.imgur.com/RXlzZCy.png)
 
 # Mod file
 ```
@@ -32,4 +32,4 @@ path="E:/Documents/Paradox Interactive/Crusader Kings III/mod/CFP"
 
 # Launch the mod
 Reboot the launcher, your local build should show up. As you can see, I have Steam, Paradox and local builds detected at the same time.
-!()[https://i.imgur.com/uXp6WxS.png]
+![](https://i.imgur.com/uXp6WxS.png)
