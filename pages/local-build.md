@@ -10,7 +10,7 @@ layout: default
 # Mod Folder
 * Go to `Documents\Paradox Interactive\Crusader Kings III\mod`
 * Create a folder named "CFP"
-* Paste in this folder the files inside the zip you retrived in PDXMods archives
+* Paste in this folder the files inside the zip you retrived in [PDXMods archives](https://mods.paradoxplaza.com/mods/12560/Any)
 
 ![](https://i.imgur.com/RXlzZCy.png)
 
