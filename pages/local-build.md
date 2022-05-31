@@ -34,7 +34,7 @@ path="E:/Documents/Paradox Interactive/Crusader Kings III/mod/CFP"
 
 * `version` is irrelevant
 * `supported_version` is the latest game version and will only trigger the outdated mod warning if it does not match
-* `path` is your local mod path, it can be stored elswhere, it can be a symlink
+* `path` is your local mod path, it can be stored elsewhere, it can be a symlink
 
 # Launch the mod
 Reboot the launcher, your local build should show up. As you can see, I have Steam, Paradox and local builds detected at the same time.
