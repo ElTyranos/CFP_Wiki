@@ -17,7 +17,7 @@ Welcome to Commununity Flavor Pack Wiki
 
 ## Mod issues
 * [Checksum mismatch](/troubleshooting/checksum)
-* [Steam Workshop : force reinstall](/troubleshooting/force-reinstall)
+* [Steam Workshop : Files Issues](/troubleshooting/force-reinstall)
 * [CK3 Launcher re-init](/troubleshooting/ck-launcher)
 
 ## Compatibility concerns
