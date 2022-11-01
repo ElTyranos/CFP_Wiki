@@ -3,9 +3,10 @@ layout: default
 ---
 
 # Latest build
-* [v3.1.5](https://drive.google.com/file/d/1WgJS0XEmojvbLmZDa7rbSkGVCMGn-Mc_/view?usp=sharing) - 08/09/2022 - 1.7.0 - Bastion
+* [v3.1.6](https://drive.google.com/file/d/1XGq8ZbZ8wMU3q6tLq2NtNVx9Ga38i0fy/view?usp=share_link) - 01/11/2022 - 1.7.2 - Bastion
 
 # Past Releases
+* [v3.1.5](https://drive.google.com/file/d/1WgJS0XEmojvbLmZDa7rbSkGVCMGn-Mc_/view?usp=sharing) - 08/09/2022 - 1.7.0 - Bastion
 * [v3.1.4](https://drive.google.com/file/d/1lrtEoo5bc0ZOLYu5uh2PlP5nYE7E5aJN/view?usp=sharing) - 05/08/2022 - 1.6.1.2 - Castle
 * [v3.1.3](https://drive.google.com/file/d/16nZuBcFscF1lMqS3KvHo0VldKf_n0QVY/view?usp=sharing) - 21/06/2022 - 1.6.1 - Castle
 * [v3.1.2](https://drive.google.com/file/d/1b1AI2xcZMKjhoVc43vUd9YULMlZBLa2i/view?usp=sharing) - 07/06/2022 - 1.6.0 - Castle
