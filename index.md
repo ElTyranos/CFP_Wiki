@@ -11,6 +11,7 @@ Welcome to Commununity Flavor Pack Wiki
 * [Why are achievements not working ?](/faq/achievements)
 * [What do icon colors in the barbershop mean?](/pages/expanded-barbershop)
 * [How can I run an old version of the mod?](/pages/local-build)
+* [Where can I download previous verions?](/pages/releases)
 
 ## Troubleshooting
 * [I have an Issue : general procedure before reporting](/troubleshooting/procedure)
