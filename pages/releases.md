@@ -3,9 +3,10 @@ layout: default
 ---
 
 # Latest build
-* [v.3.1.11](https://drive.google.com/file/d/1FjFYlwoayhD7OQfcBPIjR4p6kWccl5Iw/view?usp=share_link) - 04/04/2023 - 1.8.2 - Robe
+* [v.3.2.0](https://drive.google.com/file/d/13tmO9cz7cYgYQmTfSrJ_ScxCtLRhKKRc/view?usp=share_link) - 11/05/2023 - 1.9.0 - Lance
 
 # Past Releases
+* [v.3.1.11](https://drive.google.com/file/d/1FjFYlwoayhD7OQfcBPIjR4p6kWccl5Iw/view?usp=share_link) - 04/04/2023 - 1.8.2 - Robe
 * [v.3.1.10](https://drive.google.com/file/d/1pQndMmhJjH7-DFrR1ACXNXevTp-ckFk9/view?usp=share_link) - 04/03/2023 - 1.8.1 - Robe
 * [v.3.1.8](https://drive.google.com/file/d/1FP6ZnygfwdNatHiDU1144gSRwiflid7O/view?usp=share_link) - 01/12/2022 - 1.8.0 - Robe
 * [v3.1.7](https://drive.google.com/file/d/1cd-IbJNbW4nsMRwgILxlJqAow4p5IVkv/view?usp=share_link) - 20/11/2022 - 1.7.2 - Bastion
