@@ -2,12 +2,8 @@
 layout: default
 ---
 
-# Why are achievements not working ?
+# YES!
 
-## It's the way the game is coded
-
-> It is not possible to gain achievements if the checksum has been changed - either by tampering with game files, or by running the game using mods that affect gameplay mechanics (graphical mods do not affect checksum), or a corrupted installation (the Ironman mode icon will change to reflect this).
-
-Community Flavor Pack does not affect gameplay mechanics but it has to edit files in `common` folder ([list here](/](/pages/vanilla-changes)), where the game checksum is computed,  in order to add new assets. No edit in there = no new models.
+Since Tours and Tournaments (v1.9), a modded CK3 game is compatible with achievements!
 
 For more informations, check [CK3 wiki](https://ck3.paradoxwikis.com/Achievements).
