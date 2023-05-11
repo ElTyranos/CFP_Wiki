@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Latest build
-* [v.3.2.0](https://drive.google.com/file/d/13tmO9cz7cYgYQmTfSrJ_ScxCtLRhKKRc/view?usp=share_link) - 11/05/2023 - 1.9.0 - Lance
+* [v.3.2.1](https://drive.google.com/file/d/1SGyKr9lMMQJOueDWet-T5HRzkk49qt7n/view?usp=share_link) - 11/05/2023 - 1.9.0 - Lance
 
 # Past Releases
 * [v.3.1.11](https://drive.google.com/file/d/1FjFYlwoayhD7OQfcBPIjR4p6kWccl5Iw/view?usp=share_link) - 04/04/2023 - 1.8.2 - Robe
