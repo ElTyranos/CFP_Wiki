@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Is Community Flavor Pack savegame compatible ?
+# Is Community Flavor Pack savegame compatible?
 
 ## Between major game versions : Unlikely to No
 As vanilla saves, CFP stable build is designed for the on-going stable build of the game.

@@ -13,6 +13,7 @@ Welcome to Commununity Flavor Pack Wiki
 * [Are achievements working with the mod ?](/faq/achievements)
 * [What do icon colors in the barbershop mean?](/pages/expanded-barbershop)
 * [Where can I download previous verions?](/pages/releases)
+* [Why is there a version mismatch warning sign in my launcher?](/faq/reload-mods)
 
 ## Troubleshooting
 * [I have an Issue : general procedure before reporting](/troubleshooting/procedure)
