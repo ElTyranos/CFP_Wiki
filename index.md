@@ -7,10 +7,11 @@ layout: default
 Welcome to Commununity Flavor Pack Wiki
 
 ## Frequently Asked Question
+* [Is CFP savegame compatible?](/faq/savegame)
 * [How do I make a suggestion ?](/faq/suggestion)
+* [How can I run an old version of the mod?](/pages/local-build)
 * [Are achievements working with the mod ?](/faq/achievements)
 * [What do icon colors in the barbershop mean?](/pages/expanded-barbershop)
-* [How can I run an old version of the mod?](/pages/local-build)
 * [Where can I download previous verions?](/pages/releases)
 
 ## Troubleshooting
