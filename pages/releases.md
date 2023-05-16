@@ -5,7 +5,7 @@ layout: default
 Disclaimer: This page only stores the latest build available to each game version.
 
 # Latest build
-* [v.3.2.4](https://drive.google.com/file/d/1iByh_BhNhFWvsKR3HlA3SRG5nRkjadyi/view?usp=share_link) - 14/05/2023 - 1.9.0 - Lance
+* [v.3.2.5](https://drive.google.com/file/d/1C0vBImhnGxwGo8LbF4F9FYawIQEwtJ9s/view?usp=share_link) - 16/05/2023 - 1.9.0.4 - Lance
 
 # Past Releases
 * [v.3.1.11](https://drive.google.com/file/d/1FjFYlwoayhD7OQfcBPIjR4p6kWccl5Iw/view?usp=share_link) - 04/04/2023 - 1.8.2 - Robe
