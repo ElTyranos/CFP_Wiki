@@ -11,7 +11,7 @@ layout: default
 
 ## New functions
 * You can set yourself naked via the barbershop.
-* Blind, one-eyed and disfigured characters can edit (or remove their accessory).
+* Blind, one-eyed and disfigured characters can edit (or remove) their accessory.
 * Cloaks are made available to kids but they won't wear them automatically.
 
 ## Color code

@@ -6,9 +6,8 @@ layout: default
 
 ## Modular compatibility
 _These mods work with CFP, and also without. CFP will enhance mod's experience and reciprocally._
-* [Fullscreen Barbershop](https://steamcommunity.com/sharedfiles/filedetails/?id=2220326926) [N] : new background images from CFP will be available in Fullscreen Barbershop.
-* [The Catholic Trinity](https://steamcommunity.com/sharedfiles/filedetails/?id=2730456007) [B] : cardinal and popes outfits will apply to TCT systems.
-* ~~[Way of  Kings : Artifact module](https://steamcommunity.com/sharedfiles/filedetails/?id=2338100388) [B] : Historical artifacts of this mod will be displayed on characters when equipped.~~ **DISCONTINUED since Royal Court**
+* [Better Barbershop](https://steamcommunity.com/sharedfiles/filedetails/?id=2220326926) [B] : new background images from CFP will be available in Fullscreen Barbershop.
+* [The Catholic Trinity](https://steamcommunity.com/sharedfiles/filedetails/?id=2730456007) [B] : cardinal and popes outfits will apply to TCT systems. **OUTDATED**
 
 _[B] CFP must run before. [A] CFP must run after. [N] Load order does not matter._
 
@@ -39,7 +38,7 @@ _These mods are known to break CFP_
 * ~~Vanilla Targaryens~~
 * ~~Jewish Flavor~~
 * ~~All Genes Unlocked - Ruler Designer~~
-* ~~Immersive Duels
+* ~~Immersive Duels~~
 List is currently outdated
 
 # More mods
