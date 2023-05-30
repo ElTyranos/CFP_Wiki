@@ -5,9 +5,10 @@ layout: default
 Disclaimer: This page only stores the latest build available to each game version.
 
 # Latest build
-* [v.3.2.5](https://drive.google.com/file/d/1C0vBImhnGxwGo8LbF4F9FYawIQEwtJ9s/view?usp=share_link) - 16/05/2023 - 1.9.0.4 - Lance
+* [v.3.2.6](https://drive.google.com/file/d/1PeYLO94LBjvhrWOuxJVjoczNRjXc9ad9/view?usp=share_link) - 30/05/2023 - 1.9.1 - Lance
 
 # Past Releases
+* [v.3.2.5](https://drive.google.com/file/d/1C0vBImhnGxwGo8LbF4F9FYawIQEwtJ9s/view?usp=share_link) - 16/05/2023 - 1.9.0.4 - Lance
 * [v.3.1.11](https://drive.google.com/file/d/1FjFYlwoayhD7OQfcBPIjR4p6kWccl5Iw/view?usp=share_link) - 04/04/2023 - 1.8.2 - Robe
 * [v3.1.7](https://drive.google.com/file/d/1cd-IbJNbW4nsMRwgILxlJqAow4p5IVkv/view?usp=share_link) - 20/11/2022 - 1.7.2 - Bastion
 * [v3.1.4](https://drive.google.com/file/d/1lrtEoo5bc0ZOLYu5uh2PlP5nYE7E5aJN/view?usp=sharing) - 05/08/2022 - 1.6.1.2 - Castle
