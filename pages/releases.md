@@ -5,7 +5,7 @@ layout: default
 Disclaimer: This page only stores the latest build available to each game version.
 
 # Latest build
-* [v.3.2.10](https://drive.google.com/file/d/10ohAfC6gCRSq82GieU8vy07bDCCDhrQ3/view?usp=sharing) - 09/11/2023 - 1.11.0 - Peacock
+* [v.3.2.11](https://drive.google.com/file/d/1ZM-vHaxJhv-4T8kOUtOxW-Cb4A3KyRVn/view?usp=sharing) - 16/11/2023 - 1.11.0 - Peacock
 
 # Available Past Releases
 * [v.3.2.9](https://drive.google.com/file/d/1gKd3J-t5xQASifenz5FmzPi1rRengZn1/view?usp=sharing) - 22/08/2023 - 1.10.1 - Quill
