@@ -5,9 +5,10 @@ layout: default
 Disclaimer: This page only stores the latest build available to each game version.
 
 # Latest build
-* [v.3.2.11](https://drive.google.com/file/d/1ZM-vHaxJhv-4T8kOUtOxW-Cb4A3KyRVn/view?usp=sharing) - 16/11/2023 - 1.11.0 - Peacock
+* [v.3.2.13](https://drive.google.com/file/d/1FtbzlqkxKh-RkGvjHgqoQ7bmDo59-0NU/view?usp=drive_link) - 06/02/2023 - 1.11.4 - Peacock
 
 # Available Past Releases
+* [v.3.2.11](https://drive.google.com/file/d/1ZM-vHaxJhv-4T8kOUtOxW-Cb4A3KyRVn/view?usp=sharing) - 16/11/2023 - 1.11.0 - Peacock
 * [v.3.2.9](https://drive.google.com/file/d/1gKd3J-t5xQASifenz5FmzPi1rRengZn1/view?usp=sharing) - 22/08/2023 - 1.10.1 - Quill
 * [v.3.2.8](https://drive.google.com/file/d/1wKRakRqDteJRSfheK6vAfrAW4mLNeO0s/view?usp=sharing) - 15/06/2023 - 1.9.1 - Lance
 * [v.3.1.11](https://drive.google.com/file/d/1FjFYlwoayhD7OQfcBPIjR4p6kWccl5Iw/view?usp=share_link) - 04/04/2023 - 1.8.2 - Robe
