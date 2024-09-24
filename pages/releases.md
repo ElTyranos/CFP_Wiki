@@ -5,7 +5,7 @@ layout: default
 Disclaimer: This page only stores the latest build available to each game version.
 
 # Latest build
-* [v.3.2.15](https://drive.google.com/file/d/1IANEZPP4d1ulf5iAPPFrEpybxKVtjlPC/view?usp=sharing) - 24/09/2024 - 1.13.0.1 - Scythe
+* [v.3.2.15](https://drive.google.com/file/d/1IANEZPP4d1ulf5iAPPFrEpybxKVtjlPC/view?usp=sharing) - 24/09/2024 - 1.13.0.1 - Basileus
 
 # Available Past Releases
 * [v.3.2.14](https://drive.google.com/file/d/1P_AzygPXhTsx_ysvEYWKSgkC1JbwcpdA/view?usp=sharing) - 04/03/2024 - 1.12.1 - Scythe
