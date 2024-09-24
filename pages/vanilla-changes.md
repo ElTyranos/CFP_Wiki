@@ -55,19 +55,36 @@ Editing these files in your mod without [compatibility patch](/troubleshooting/i
 
 # Overwritten classes
 ..major clothing assignement disfunctions
+
+
 'portrait_mena_clothing_contents_trigger' for database 'common/scripted_triggers' in ' file: common/scripted_triggers/CFP_clothing_triggers.txt'
+
 'portrait_african_clothing_contents_trigger' for database 'common/scripted_triggers' in ' file: common/scripted_triggers/CFP_clothing_triggers.txt'
+
 'portrait_era2_armor_trigger' for database 'common/scripted_triggers' in ' file: common/scripted_triggers/CFP_clothing_triggers.txt'
+
 'portrait_era3_armor_trigger' for database 'common/scripted_triggers' in ' file: common/scripted_triggers/CFP_clothing_triggers.txt'
+
 'portrait_era4_armor_trigger' for database 'common/scripted_triggers' in ' file: common/scripted_triggers/CFP_clothing_triggers.txt'
+
 'create_artifact_joyeuse_effect' for database 'common/scripted_effects' in ' file: common/scripted_effects/CFP_historical_artifacts_creation_effect.txt'
+
 'western' for database 'gfx/court_scene/scene_cultures' in ' file: gfx/court_scene/scene_cultures/CFP_scenes_cultures.txt'
+
 'mediterranean' for database 'gfx/court_scene/scene_cultures' in ' file: gfx/court_scene/scene_cultures/CFP_scenes_cultures.txt'
+
 'mena' for database 'gfx/court_scene/scene_cultures' in ' file: gfx/court_scene/scene_cultures/CFP_scenes_cultures.txt'
+
 'jester' for database 'gfx/court_scene/character_roles' in ' file: gfx/court_scene/character_roles/cfp_default_roles.txt'
+
 'fp2_2p_chess_board' for database 'common/artifacts/visuals' in ' file: common/artifacts/visuals/CFP_redefined.txt'
+
 'pedestal_crown_iron' for database 'common/artifacts/visuals' in ' file: common/artifacts/visuals/CFP_redefined.txt'
+
 'wall_shield' for database 'common/artifacts/visuals' in ' file: common/artifacts/visuals/CFP_redefined.txt'
+
 'skull_goblet' for database 'common/artifacts/visuals' in ' file: common/artifacts/visuals/CFP_redefined.txt'
+
 'theocracy_government' for database 'common/governments' in ' file: common/governments/CFP_government_types.txt'
+
 'spymaster' for database 'gfx/portraits/portrait_animations' in ' file: gfx/portraits/portrait_animations/animations.txt'

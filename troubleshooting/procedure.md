@@ -22,6 +22,6 @@ The more obvious the issue is, the more likely it's an incompatibility.
 
 ### 3. Items in the barbershop have no name
 * [Force re-install](/troubleshooting/force-reinstall).
-s
+
 ## But, why the incompatibility ?
 Unfortunately, the way the game is coded does not allow to append code (e.g. to change a very specific class or value), you have to overwrite actual game files entirely. [If two mods change the same files](/pages/vanilla-changes), they will create incompatibilities. There is nothing that can be done excepted one thing : [cooperation and compatibility patches between mods](/troubleshooting/in-compatibilities).
