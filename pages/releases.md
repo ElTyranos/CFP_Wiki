@@ -5,9 +5,10 @@ layout: default
 Disclaimer: This page only stores the latest build available to each game version.
 
 # Latest build
-* [v.3.2.19](https://drive.google.com/file/d/1Mu-2OzpY2a8bMxZmKeb87ituZOUPEaBO/view?usp=sharing) - 27/11/2024 - 1.14.2.1 - Traverse
+* [v.3.2.20](https://drive.google.com/file/d/1FULT_qhvHFrg10Fs8021QD25Y6Op9Roj/view?usp=sharing) - 25/02/2025 - 1.14.3 - Traverse
 
 # Available Past Releases
+* [v.3.2.19](https://drive.google.com/file/d/1Mu-2OzpY2a8bMxZmKeb87ituZOUPEaBO/view?usp=sharing) - 27/11/2024 - 1.14.2.1 - Traverse
 * [v.3.2.18](https://drive.google.com/file/d/1tjMOtd5QH8KBOctvemXLlzHiMdGBGuEC/view?usp=sharing) - 04/11/2024 - 1.14.0.1 - Traverse
 * [v.3.2.17](https://drive.google.com/file/d/1a75k9Y-UXYNW7vm3JlcLZXxWE0gX5_H0/view?usp=sharing) - 30/09/2024 - 1.13.0.3 - Basileus
 * [v.3.2.14](https://drive.google.com/file/d/1P_AzygPXhTsx_ysvEYWKSgkC1JbwcpdA/view?usp=sharing) - 04/03/2024 - 1.12.1 - Scythe
