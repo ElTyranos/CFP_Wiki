@@ -5,7 +5,7 @@ layout: default
 Disclaimer: This page only stores the latest build available to each game version.
 
 # Latest build
-* [v.3.3.0](https://drive.google.com/file/d/1RdwQ1eaYBEXC3TXfM3V-H5iwfhxBkGXx/view?usp=sharing) - 28/10/2025 - 1.18.0 - Crane
+* [v.3.3.1](https://drive.google.com/file/d/1RdwQ1eaYBEXC3TXfM3V-H5iwfhxBkGXx/view?usp=sharing) - 28/10/2025 - 1.18.0 - Crane
 
 # Available Past Releases
 * [v.3.2.23](https://drive.google.com/file/d/1jqVe50F_ZkSQDCP0j1G6jq05awqJ5vzD/view?usp=sharing) - 21/07/2025 - 1.16.2.3 - Chamfron
