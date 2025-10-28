@@ -5,10 +5,10 @@ layout: default
 Disclaimer: This page only stores the latest build available to each game version.
 
 # Latest build
-* [v.3.2.23](https://drive.google.com/file/d/1jqVe50F_ZkSQDCP0j1G6jq05awqJ5vzD/view?usp=sharing) - 21/07/2025 - 1.16.2.3 - Chamfron
+* [v.3.3.0](https://drive.google.com/file/d/1RdwQ1eaYBEXC3TXfM3V-H5iwfhxBkGXx/view?usp=sharing) - 28/10/2025 - 1.18.0 - Crane
 
 # Available Past Releases
-* [v.3.2.22](https://drive.google.com/file/d/1qXtTwAp5dLu9TJj-ZoM3eFPWAmEIAUkf/view?usp=sharing) - 28/04/2025 - 1.16.1 - Chamfron
+* [v.3.2.23](https://drive.google.com/file/d/1jqVe50F_ZkSQDCP0j1G6jq05awqJ5vzD/view?usp=sharing) - 21/07/2025 - 1.16.2.3 - Chamfron
 * [v.3.2.21](https://drive.google.com/file/d/1pBJLnDSzv5x7oBziCaXopk6UfyAz8tFx/view?usp=sharing) - 12/03/2025 - 1.15.0 - Crown
 * [v.3.2.20](https://drive.google.com/file/d/1FULT_qhvHFrg10Fs8021QD25Y6Op9Roj/view?usp=sharing) - 25/02/2025 - 1.14.3 - Traverse
 * [v.3.2.17](https://drive.google.com/file/d/1a75k9Y-UXYNW7vm3JlcLZXxWE0gX5_H0/view?usp=sharing) - 30/09/2024 - 1.13.0.3 - Basileus
