@@ -27,7 +27,7 @@ Disclaimer: This page only stores the latest build available to each game versio
 # Europa Universalis V
 
 ## Latest build
-* [v.1.0](https://drive.google.com/file/d/1gGcS2TXA8eeDqKh4fWaffGqUEAgfhYl9/view?usp=sharing) - 04/11/2025 - 1.0.0 - Lepanto
+* [v.1.1](https://drive.google.com/file/d/1gGcS2TXA8eeDqKh4fWaffGqUEAgfhYl9/view?usp=sharing) - 06/11/2025 - 1.0.2 - Lepanto
 
 ## Available Past Releases
 * N/A
