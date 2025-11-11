@@ -7,7 +7,7 @@ Disclaimer: This page only stores the latest build available to each game versio
 # Crusader Kings III
 
 ## Latest build
-* [v.3.3.2](https://drive.google.com/file/d/1RdwQ1eaYBEXC3TXfM3V-H5iwfhxBkGXx/view?usp=sharing) - 30/10/2025 - 1.18.0 - Crane
+* [v.3.3.3](https://drive.google.com/file/d/1RdwQ1eaYBEXC3TXfM3V-H5iwfhxBkGXx/view?usp=sharing) - 11/11/2025 - 1.18.0.2 - Crane
 
 ## Available Past Releases
 * [v.3.2.23](https://drive.google.com/file/d/1jqVe50F_ZkSQDCP0j1G6jq05awqJ5vzD/view?usp=sharing) - 21/07/2025 - 1.16.2.3 - Chamfron
