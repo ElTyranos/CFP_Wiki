@@ -7,9 +7,10 @@ Disclaimer: This page only stores the latest build available to each game versio
 # Crusader Kings III
 
 ## Latest build
-* [v.3.3.7](https://drive.google.com/file/d/1c5Hu967eiKs0CsycfegrmdUlDfkOyLA2/view?usp=sharing) - 01/10/2026 - 1.20.0 - Crozier
+* [v.3.3.8](https://drive.google.com/file/d/1J5iOx6Qbb109OavebVEDRjJGVOIGIZ_D/view?usp=sharing) - 17/11/2026 - 1.21.0 - Florin
 
 ## Available Past Releases
+* [v.3.3.7](https://drive.google.com/file/d/1c5Hu967eiKs0CsycfegrmdUlDfkOyLA2/view?usp=sharing) - 01/10/2026 - 1.20.0 - Crozier
 * [v.3.3.6](https://drive.google.com/file/d/1jP3IPNmb_N7kV0McGepFKIJeJHQpjbS_/view?usp=sharing) - 21/04/2026 - 1.19.0 - Scribe
 * [v.3.3.5](https://drive.google.com/file/d/1d_8HsOt8jiLgO8TCE3fpvCXH_2jY5qmc/view?usp=sharing) - 27/01/2026 - 1.18.3 - Crane
 * [v.3.2.23](https://drive.google.com/file/d/1jqVe50F_ZkSQDCP0j1G6jq05awqJ5vzD/view?usp=sharing) - 21/07/2025 - 1.16.2.3 - Chamfron
